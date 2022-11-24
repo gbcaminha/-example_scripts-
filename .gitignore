@@ -1,0 +1,10 @@
+# Lines starting with '#' are considered comments.
+# Ignore files
+*.pyc
+*.o
+*.a
+*.swp
+*.out
+*.dat
+*.fits
+
