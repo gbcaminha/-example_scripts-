@@ -25,7 +25,7 @@ rc('font', **font)
 def main_plot_2d_distribution():
     """
     run python plot_2d_distribution.py -h for description
-    Main function: creates a 2-dimentional distribution and computes the PDFs
+    Main function: creates a 2-dimensional distribution and computes the PDFs
     using numpy.histogram2d and getdist.MCSamples. The numpy.histogram2d
     generates a noisy 2d PDF and getdist.MCSamples a smooth PDF.
     Input
